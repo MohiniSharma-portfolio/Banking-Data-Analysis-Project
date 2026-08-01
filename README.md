@@ -18,10 +18,10 @@ This project provides a 360-degree view of banking data using Python for analysi
 ## 📊 Dashboard Preview
 
 ### 🏠 Executive Dashboard
-![Executive Dashboard](images/home.png)
+![Executive Dashboard](image/home.png)
 
 ### 💰 Loan Analysis
-![Loan Analysis](images/loan.png)
+![Loan Analysis](image/loan.png)
 
 ### 🏦 Deposit Analysis
-![Deposit Analysis](images/deposit.png)
+![Deposit Analysis](image/deposit.png)
