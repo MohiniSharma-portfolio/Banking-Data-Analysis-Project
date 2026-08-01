@@ -17,11 +17,11 @@ This project provides a 360-degree view of banking data using Python for analysi
 - Found that income levels do not strictly dictate saving habits, highlighting the need for behavioral targeting.
 ## 📊 Dashboard Preview
 
-### Executive Dashboard
+### 🏠 Executive Dashboard
 ![Executive Dashboard](images/home.png)
 
-### Loan Analysis
+### 💰 Loan Analysis
 ![Loan Analysis](images/loan.png)
 
-### Deposit Analysis
+### 🏦 Deposit Analysis
 ![Deposit Analysis](images/deposit.png)
